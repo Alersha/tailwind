@@ -1,0 +1,14 @@
+{
+  "name": "tailwind",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "New Neo",
+  "license": "ISC",
+  "dependencies": {
+    "@popperjs/core": "^2.10.2"
+  }
+}
